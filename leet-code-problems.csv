@@ -1,3 +1,4 @@
-Question ID,Title,Difficulty,Acceptance Rate,Frequency,link
-1,Two Sum,Easy,50.4%,High,https://leetcode.com/problems/two-sum/description/
-2,Special Array I,Easy,78.6%,High,https://leetcode.com/problems/special-array-i/description/?envType=daily-question&envId=2025-02-01
+Question ID, Title, Difficulty, Acceptance Rate, Frequency,link
+1, Two Sum, Easy, 50.4%, High, https://leetcode.com/problems/two-sum/description/
+2, Special Array I, Easy,78.6%, High, https://leetcode.com/problems/special-array-i/description/?envType=daily-question&envId=2025-02-01
+3, Sort Color, Medium, 66.1%, Medium, https://leetcode.com/problems/sort-colors/description/
