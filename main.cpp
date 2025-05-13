@@ -2,6 +2,6 @@
 #include<iostream>
 using namespace std;
 int main(){
-    cout<<"Hello mohit world"<<endl;
+    cout<<"Hello salman khan"<<endl;
     return 0;
 }

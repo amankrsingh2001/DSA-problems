@@ -3,3 +3,5 @@ Question ID, Title, Difficulty, Acceptance Rate, Frequency,link
 2, Special Array I, Easy,78.6%, High, https://leetcode.com/problems/special-array-i/description/?envType=daily-question&envId=2025-02-01
 3, Sort Color, Medium, 66.1%, Medium, https://leetcode.com/problems/sort-colors/description/
 4, Check if Array Is Sorted and Rotated, Easy, 53.2%, High , https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/?envType=daily-question&envId=2025-02-02
+5, Count Subarrays With Score Less Than K, Hard, 62.5%, High, https://leetcode.com/problems/count-subarrays-with-score-less-than-k/description/?envType=daily-question&envId=2025-04-30
+6,  Group Anagrams, Medium, 70.7%, High, https://leetcode.com/problems/group-anagrams/description/
