@@ -5,3 +5,7 @@ Question ID, Title, Difficulty, Acceptance Rate, Frequency,link
 4, Check if Array Is Sorted and Rotated, Easy, 53.2%, High , https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/?envType=daily-question&envId=2025-02-02
 5, Count Subarrays With Score Less Than K, Hard, 62.5%, High, https://leetcode.com/problems/count-subarrays-with-score-less-than-k/description/?envType=daily-question&envId=2025-04-30
 6,  Group Anagrams, Medium, 70.7%, High, https://leetcode.com/problems/group-anagrams/description/
+7, Longest Palindromic Substring, Medium, 35.6%, Medium, https://leetcode.com/problems/longest-palindromic-substring/description/
+8, Set Matrix Zeroes, Medium, 59.6%, Medium , https://leetcode.com/problems/set-matrix-zeroes/description/
+9, Array Duplicates, Easy, 18.95%, Easy, http://geeksforgeeks.org/problems/find-duplicates-in-an-array/1?page=1&sortBy=submissions
+10, Majority Element, Medium, 27.82%, Medium, https://www.geeksforgeeks.org/problems/majority-element-1587115620/1?page=1&sortBy=submissions
